@@ -1,4 +1,4 @@
-name: CI/CD para Calculadora React
+name: CI Calculadora React
 
 on:
   push:
